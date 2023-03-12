@@ -40,7 +40,7 @@ int i=0;
 ## Printer
 
 
- Kullanıcı Adınızı Giriniz :
+* Kullanıcı Adınızı Giriniz :
 * 1
 * Şifrenizi Giriniz
 * 2
