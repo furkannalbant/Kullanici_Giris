@@ -41,14 +41,14 @@ int i=0;
 
 
  Kullanıcı Adınızı Giriniz :
-1
-Şifrenizi Giriniz
-2
-Şifreniz Yanlış 
- şifrenizi sıfırlamak için " 1 "e basınız tekrar denemek için  "2" ye basınız 
-1
-Yeni şifrenizi Giriniz
-123
-Giridiğiniz şifre bir önceki ile ayni Yeni şifrenizi Giriniz
-23
-Şifreniz Başarlı bir şekilde değiştirildi
+* 1
+* Şifrenizi Giriniz
+* 2
+* Şifreniz Yanlış 
+* şifrenizi sıfırlamak için " 1 "e basınız tekrar denemek için  "2" ye basınız 
+* 1
+* Yeni şifrenizi Giriniz
+* 123
+* Giridiğiniz şifre bir önceki ile ayni Yeni şifrenizi Giriniz
+* 23
+* Şifreniz Başarlı bir şekilde değiştirildi
